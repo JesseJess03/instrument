@@ -214,6 +214,66 @@ function mousePressed() {
 
 function mouseReleased() {
 
+if (dice == 1) {
+	  jeff_sound.stop() 
+	}
+
+if (dice == 2) {
+		roblox_sound.stop()
+	}
+
+if (dice == 3) {
+		bruh_sound.stop()
+	}
+
+if (dice == 4) {
+		ugly_sound.stop()
+	}	
+
+if (dice == 5) {
+		sad_sound.stop()
+	}	
+
+if (dice == 6) {
+		pika_sound.stop()
+	}	
+
+if (dice == 7) {
+		wow_sound.stop()
+	}
+
+	if (dice == 8) {
+		uglyb_sound.stop()
+	}
+
+	if (dice == 9) {
+		hotpocket_cry.stop()
+	}
+
+	if (dice == 10) {
+		hoes_sound.stop()
+	}
+
+	if (dice == 11) {
+		spotted_sound.stop()
+	}
+
+	if (dice == 12) {
+		ahhshit_sound.stop()
+	}
+
+	if (dice == 13) {
+		nani_sound.stop()
+	}
+
+	if (dice == 14) {
+		nice_sound.stop()
+	}
+
+	if (dice == 15) {
+		dawae_sound.stop()
+	}	
+
 }
 
 function mouseDragged() {
